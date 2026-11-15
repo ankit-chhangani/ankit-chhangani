@@ -1,84 +1,116 @@
-# 🟦 ANKIT CHHANGANI — PLAYER PROFILE
+<!--
+  ANKIT CHHANGANI | GITHUB PROFILE README
+  Theme: Cute Pixel Robot • Midnight Arcade • Developer
+-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:071426,100:123B55&text=ANKIT%20CHHANGANI&fontColor=67E8F9&fontSize=38&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20AI&descColor=A5F3FC&descAlignY=70" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world...;Building+systems%2C+one+commit+at+a+time.;Learning.+Building.+Evolving."/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=25&duration=3000&pause=900&color=75E6DA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Ankit+%F0%9F%91%8B;Java+Backend+Developer+in+the+Making;Building+Things+That+Matter+%E2%9C%A8;Exploring+the+World+of+AI+%F0%9F%A4%96" alt="Typing introduction"/>
+
+<br/>
+
+### `~/ankit-chhangani $ whoami`
+
+**A developer with big ideas and a little robot companion.** 🤖
+
+*Learning • Building • Experimenting • Repeating*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17152B,50:24204A,100:102C40&height=3&section=header" width="80%"/>
+
+</div>
+
+## 🌱 A little about me
+
+I'm a BCA student interested in software engineering and building technology that solves real-world problems.
+
+My interests revolve around:
+
+- ☕ **Java Backend Development** — Building reliable and scalable applications.
+- 🤖 **Agentic AI & AI Software Development** — Creating intelligent systems that reason, use tools, and execute tasks.
+- 🌐 **Distributed Systems & Messaging Systems** — Understanding how large-scale systems communicate and operate.
+- 💡 **Product Engineering** — Turning interesting ideas into useful software.
+
+## 🧰 My toolbox
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| Languages | Java · C · Python |
+| Backend | Spring Boot · Backend Engineering |
+| Web | HTML · CSS |
+| Tools | Git · GitHub |
+
+</div>
+
+## 🚀 Current quests
+
+- [x] Start my software engineering journey
+- [x] Explore Java and programming fundamentals
+- [ ] Master Java & Spring Boot
+- [ ] Build production-ready backend systems
+- [ ] Explore AI-powered applications
+- [ ] Build something people actually use
+
+## 🕹️ Currently exploring
 
 ```text
-╔══════════════════════════════════════════════╗
-║              PLAYER INFORMATION             ║
-╠══════════════════════════════════════════════╣
-║  NAME       : Ankit Chhangani                ║
-║  CLASS      : BCA Student                    ║
-║  SPECIALITY : Java Backend & AI Engineering  ║
-║  STATUS     : Currently Learning & Building  ║
-║  QUEST      : Becoming a Software Engineer   ║
-╚══════════════════════════════════════════════╝
+╭────────────────────────────────────╮
+│  🤖 ANKIT'S DEVELOPMENT CONSOLE    │
+├────────────────────────────────────┤
+│  CLASS       : Systems Architect   │
+│  SPECIALITY  : Backend Engineering │
+│  CURRENT XP  : Learning & Building │
+│  STATUS      : ONLINE              │
+│  NEXT QUEST  : Build something cool│
+╰────────────────────────────────────╯
 ```
 
-## 🕹️ ABOUT THE PLAYER
+## 📊 GitHub activity
 
-Hey! I'm Ankit, a BCA student exploring the world of software engineering.
+<div align="center">
 
-I enjoy understanding how software systems work behind the scenes, building practical applications, and learning the engineering principles behind scalable technology.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit-chhangani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" alt="GitHub stats"/>
 
-### ⚔️ CURRENT SKILL TREE
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-chhangani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=12" alt="Top languages"/>
 
-- **Java Backend Development** — Building robust, maintainable and scalable backend applications.
-- **Agentic AI & AI Engineering** — Exploring LLMs, tool calling and autonomous workflows.
-- **Distributed Systems & Messaging** — Understanding how large-scale systems communicate and coordinate.
-- **Software Architecture** — Learning to design reliable systems that evolve with real-world requirements.
+<img src="https://streak-stats.demolab.com?user=ankit-chhangani&theme=tokyonight&hide_border=true&background=0D1117&border_radius=12" alt="GitHub streak"/>
 
-## 🎯 ACTIVE QUESTS
+</div>
+
+## 🪴 Beyond the code
+
+I enjoy exploring ideas, solving problems, playing chess, and learning how technology works behind the scenes.
+
+<details>
+<summary>🤖 A message from my little robot</summary>
 
 ```text
-[ IN PROGRESS ]  Mastering Java & Spring Boot
-[ IN PROGRESS ]  Building Backend Projects
-[ EXPLORING    ]  Agentic AI & LLM Applications
-[ FUTURE QUEST ]  Distributed Systems Engineering
-[ FINAL BOSS   ]  Building My Own Tech Startup
+   ┌───────────────┐
+   │  ◉       ◉   │
+   │      ▿        │
+   │  LITTLE BOT   │
+   └──────┬────────┘
+          │
+     BEEP BOOP!
+
+     "Keep building,
+      human. You're
+      doing great!"
 ```
 
-## 🎒 INVENTORY — TECH STACK
+</details>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,postgres,mysql,git,github,vscode,linux,docker&theme=dark" />
-</p>
+---
 
-## 📊 PLAYER STATISTICS
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-chhangani&show_icons=true&hide_border=true&bg_color=071426&title_color=67E8F9&text_color=B6C8D9&icon_color=67E8F9" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-chhangani&layout=compact&hide_border=true&bg_color=071426&title_color=67E8F9&text_color=B6C8D9" height="165"/>
-</p>
+### Thanks for visiting my little corner of GitHub! 💜
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankit-chhangani&hide_border=true&background=071426&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=B6C8D9&dates=7895AA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
-</p>
+*Stay curious. Keep building. Enjoy the process.*
 
-## 🌐 FIND ME IN THE DIGITAL WORLD
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17152B,50:433B75,100:75E6DA&height=100&section=footer" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/ankit-chhangani">
-    <img src="https://img.shields.io/badge/GITHUB-071426?style=for-the-badge&logo=github&logoColor=67E8F9"/>
-  </a>
-  <a href="https://linkedin.com/in/ankit-chhangani">
-    <img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankit-chhangani&style=flat-square&color=0891B2&label=VISITORS"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:123B55,100:071426&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <i>"Every great system starts with a single line of code."</i>
-</p>
+</div>
