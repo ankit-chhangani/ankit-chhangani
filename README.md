@@ -1,136 +1,78 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090817,50:21143D,100:493B78&height=170&section=header&text=ANKIT.EXE&fontSize=48&fontColor=BEA7FF&fontAlignY=40&desc=DEVELOPER%20%2F%20LEARNER%20%2F%20BUILDER&descAlignY=65&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151426,50:29264A,100:5B547D&height=180&section=header&text=Ankit%20Chhangani&fontSize=42&fontColor=E5E1FF&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=16" width="100%"/>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  ANKIT@DEV:~$ ./welcome.sh                               │
-│                                                          │
-│  > Initializing developer profile...                     │
-│  > Loading curiosity................................ OK   │
-│  > Loading creativity............................... OK   │
-│  > Loading caffeine.................................. OK  │
-│                                                          │
-│  Welcome to my little corner of the internet.            │
-│  One idea at a time.                                     │
-└──────────────────────────────────────────────────────────┘
-```
-
-[ `GITHUB` ](https://github.com/ankit-chhangani) · [ `LINKEDIN` ](https://www.linkedin.com/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=9BDBE8&center=true&vCenter=true&width=550&lines=Exploring+the+art+of+software+engineering;Building+with+Java+%26+Spring+Boot;Curious+about+AI+%26+distributed+systems;One+idea+at+a+time" />
 
 </div>
 
 ---
 
-### `01 // ABOUT_ME`
+### `01 / A little about me`
 
-```bash
-$ whoami
-```
+Hey! I'm Ankit, a BCA student interested in understanding how technology works and building things that solve real-world problems.
 
-Hey, I'm **Ankit**, a BCA student interested in understanding how technology works and building things that solve real-world problems.
+I'm currently focused on becoming a strong **Java Backend Engineer**, while exploring the possibilities of AI and modern software architecture.
 
-Currently focused on becoming a strong **Java Backend Engineer**, while exploring AI and modern software architecture.
+I enjoy learning by building, experimenting with ideas, and understanding the engineering behind the products we use every day.
 
-```text
-> I learn by building.
-> I experiment by breaking things.
-> I grow by understanding why they work.
-```
+### `02 / Things I'm interested in`
 
-### `02 // INTERESTS`
+| Field | What fascinates me |
+|---|---|
+| ☕ Backend Engineering | Reliable, scalable software systems |
+| 🤖 Agentic AI | Intelligent systems that reason and use tools |
+| 🌐 Distributed Systems | How large-scale systems communicate |
+| 💡 Product Engineering | Turning ideas into useful products |
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│  [01] BACKEND ENGINEERING                                  │
-│       Reliable and scalable software systems              │
-│                                                            │
-│  [02] AGENTIC AI                                           │
-│       Intelligent systems that reason and use tools        │
-│                                                            │
-│  [03] DISTRIBUTED SYSTEMS                                  │
-│       How large-scale systems communicate                  │
-│                                                            │
-│  [04] PRODUCT ENGINEERING                                  │
-│       Turning ideas into useful products                   │
-└────────────────────────────────────────────────────────────┘
-```
-
-### `03 // MY_TOOLKIT`
-
-```bash
-$ ls ./technologies
-```
-
-**LANGUAGES & FRAMEWORKS**
+### `03 / My toolkit`
 
 <div align="center">
+
+**⌁ Languages & Frameworks**
+
 <img src="https://skillicons.dev/icons?i=java,spring,c,python&theme=dark" />
-</div>
 
-**WEB & DEVELOPMENT TOOLS**
+**⌁ Web & Development Tools**
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
+
 </div>
 
-### `04 // CURRENTLY_LEARNING`
+### `04 / Currently learning`
 
 ```text
-$ cat learning.log
-
-[ACTIVE]    Java & Spring Boot
-[EXPLORING] Backend Engineering
-[EXPLORING] AI Applications
-[UP NEXT]   System Design
+JAVA & SPRING BOOT     ████████░░  IN PROGRESS
+BACKEND ENGINEERING   ██████░░░░  EXPLORING
+AI APPLICATIONS       ████░░░░░░  EXPLORING
+SYSTEM DESIGN          ██░░░░░░░░  ON THE HORIZON
 ```
 
-### `05 // FUTURE_BUILDS`
+### `05 / Things I'm building towards`
 
-```text
-$ cat roadmap.txt
+- Building production-ready Java backend applications.
+- Understanding databases, APIs and system architecture.
+- Exploring AI-powered applications and agentic systems.
+- Creating products that solve meaningful problems.
 
-[ ] Build production-ready Java backend applications
-[ ] Understand databases, APIs and system architecture
-[ ] Explore AI-powered and agentic applications
-[ ] Create products that solve meaningful problems
-```
+### `06 / Outside the terminal`
 
-### `06 // OUTSIDE_THE_TERMINAL`
-
-```text
-$ hobbies --list
-
-> Chess
-> Exploring new ideas
-> Understanding how things work
-
-STATUS: Still curious.
-```
+When I'm not coding, you'll probably find me playing chess, exploring new ideas, or figuring out how something works.
 
 ---
 
 <div align="center">
 
-### `07 // SESSION_END`
+### `08 / Thanks for stopping by`
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   > Stay curious.                            │
-│   > Keep building.                           │
-│   > Never stop exploring.                    │
-│                                              │
-│   CONNECTION STATUS: STILL LEARNING          │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:151426,50:29264A,100:5B547D&height=3&section=header" width="65%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:493B78,50:21143D,100:090817&height=100&section=footer" width="100%"/>
+**A small step every day. A better engineer tomorrow.**
 
-```text
-MADE WITH <3 BY ANKIT
-EOF_
-```
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Pixel art coding animation"/>
+
+<sub>Made with curiosity, coffee & lots of debugging.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B547D,50:29264A,100:151426&height=100&section=footer" width="100%"/>
 
 </div>
