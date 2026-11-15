@@ -1,36 +1,84 @@
-### Hi there, I'm Ankit Chhangani 👋
+# 🟦 ANKIT CHHANGANI — PLAYER PROFILE
 
-I'm a BCA student focused on building a strong foundation in software engineering, with a particular interest in Java backend development and AI.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:071426,100:123B55&text=ANKIT%20CHHANGANI&fontColor=67E8F9&fontSize=38&fontAlignY=45&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20AI&descColor=A5F3FC&descAlignY=70" width="100%"/>
+</p>
 
-I'm interested in understanding how modern software systems are designed, developed, and scaled, particularly in the following areas:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=16&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+world...;Building+systems%2C+one+commit+at+a+time.;Learning.+Building.+Evolving."/>
+</p>
 
-- **Java Backend Development:** Building robust, maintainable, and scalable backend applications.
-- **Agentic AI & AI Engineering:** Developing intelligent applications that leverage LLMs, tool calling, and autonomous workflows.
-- **Distributed Systems & Messaging:** Understanding how large-scale systems communicate, coordinate, and handle data.
-- **Software Architecture:** Learning to design reliable systems that can evolve with real-world requirements.
+```text
+╔══════════════════════════════════════════════╗
+║              PLAYER INFORMATION             ║
+╠══════════════════════════════════════════════╣
+║  NAME       : Ankit Chhangani                ║
+║  CLASS      : BCA Student                    ║
+║  SPECIALITY : Java Backend & AI Engineering  ║
+║  STATUS     : Currently Learning & Building  ║
+║  QUEST      : Becoming a Software Engineer   ║
+╚══════════════════════════════════════════════╝
+```
 
-My long-term ambition is to become a strong software engineer, build technology-driven products that solve meaningful problems, and eventually establish my own technology startup.
+## 🕹️ ABOUT THE PLAYER
 
-I believe in learning by building, strengthening fundamentals, and making consistent progress through practical experience.
+Hey! I'm Ankit, a BCA student exploring the world of software engineering.
 
-### Connect with me
+I enjoy understanding how software systems work behind the scenes, building practical applications, and learning the engineering principles behind scalable technology.
 
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/ankit-chhangani) [<img src="https://img.shields.io/badge/LinkedIn-102216?style=for-the-badge&logo=linkedin&logoColor=11d452"/>](https://linkedin.com/in/ankit-chhangani)
+### ⚔️ CURRENT SKILL TREE
 
-### Tech Stack
+- **Java Backend Development** — Building robust, maintainable and scalable backend applications.
+- **Agentic AI & AI Engineering** — Exploring LLMs, tool calling and autonomous workflows.
+- **Distributed Systems & Messaging** — Understanding how large-scale systems communicate and coordinate.
+- **Software Architecture** — Learning to design reliable systems that evolve with real-world requirements.
 
-  <img src="https://img.shields.io/badge/Java-102216?style=for-the-badge&logo=java&logoColor=11d452" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+## 🎯 ACTIVE QUESTS
 
-### 📊 Engineering Metrics
+```text
+[ IN PROGRESS ]  Mastering Java & Spring Boot
+[ IN PROGRESS ]  Building Backend Projects
+[ EXPLORING    ]  Agentic AI & LLM Applications
+[ FUTURE QUEST ]  Distributed Systems Engineering
+[ FINAL BOSS   ]  Building My Own Tech Startup
+```
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankit-chhangani&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankit-chhangani&layout=compact&theme=radical" alt="Top Languages" />
+## 🎒 INVENTORY — TECH STACK
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-chhangani&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,c,postgres,mysql,git,github,vscode,linux,docker&theme=dark" />
+</p>
 
-<img src="https://github-profile-trophy-mu.vercel.app/?username=ankit-chhangani&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+## 📊 PLAYER STATISTICS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankit-chhangani&bg_color=102216&color=11d452&line=11d452&point=11d452&area=true&hide_border=true" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-chhangani&show_icons=true&hide_border=true&bg_color=071426&title_color=67E8F9&text_color=B6C8D9&icon_color=67E8F9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-chhangani&layout=compact&hide_border=true&bg_color=071426&title_color=67E8F9&text_color=B6C8D9" height="165"/>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ankit-chhangani&color=11d452&style=for-the-badge" alt="Visitor Badge" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankit-chhangani&hide_border=true&background=071426&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=B6C8D9&dates=7895AA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%"/>
+</p>
+
+## 🌐 FIND ME IN THE DIGITAL WORLD
+
+<p align="center">
+  <a href="https://github.com/ankit-chhangani">
+    <img src="https://img.shields.io/badge/GITHUB-071426?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+  </a>
+  <a href="https://linkedin.com/in/ankit-chhangani">
+    <img src="https://img.shields.io/badge/LINKEDIN-071426?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ankit-chhangani&style=flat-square&color=0891B2&label=VISITORS"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:123B55,100:071426&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>"Every great system starts with a single line of code."</i>
+</p>
